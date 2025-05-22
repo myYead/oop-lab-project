@@ -113,7 +113,7 @@ public class BankSystem {
 						scanner.nextLine();
 
 
-						System.out.println("account Type: ");
+						System.out.println("Account Type(savings or current):" );
 						String acType = scanner.nextLine();
 
 
